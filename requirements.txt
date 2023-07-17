@@ -1,0 +1,4 @@
+Required modules for creating this project:
+
+1) tkinter
+2) pyshorteners
